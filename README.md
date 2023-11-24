@@ -68,3 +68,9 @@ Una vez abierto el proyecto:
 	+ Dirígete al menú "Home" con el logo de una casa, ubicado en la barra lateral izquierda de la pantalla. 
 	+ Da click en el botón "Reservar una cita".
 	+ Empieza a llenar los campos y da click en "Reservar".
+ + # Casos más comunes.
++ Pérdida de datos:
+    + Asegurate de llenar correctamente todos los campos.
+> :heavy_exclamation_mark: **IMPORTANTE** 
+>
+> Asegurate de haber bloqueado/desbloqueado tus movimientos antes de dar click en el botón "Actualizar".
